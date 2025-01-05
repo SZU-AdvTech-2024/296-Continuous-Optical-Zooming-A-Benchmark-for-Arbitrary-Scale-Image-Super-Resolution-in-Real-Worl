@@ -1,0 +1,8 @@
+@inproceedings{REPO296,
+    author = "Fu, Huiyuan and Peng, Fei and Li, Xianwei and Li, Yejun and Wang, Xin and Ma, Huadong",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "3035-3044",
+    title = "{Continuous Optical Zooming: A Benchmark for Arbitrary-Scale Image Super-Resolution in Real World}",
+    year = "2024"
+}
